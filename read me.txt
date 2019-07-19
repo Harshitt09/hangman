@@ -1,0 +1,12 @@
+-----
+NOTE:
+-----
+
+1.instal python 2.7 software in your computer.
+2.run the program of Hangman.
+3.click on play button for starting the game.
+4.write the Correct name or images in a textbox.
+5.Remember the enterword should be in capital letters.
+6.after writin the name of image click on sumit button.
+7.for changing the images use next button.
+8.for quit the game use QUIT button given in upper screen of game.
